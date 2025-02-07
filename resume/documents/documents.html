@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Documents | Resume</title>
+
+</head>
+<body>
+<header>
+    <h1>Erin Cheng</h1>
+    <p><em>My online resume</em></p>
+    <link rel="stylesheet" type = "text/css" href="documents.css">
+</header>
+<div class= "container">
+    <nav class = "sidebar">
+        <ul>
+            <li><a href="../home/resume.html">Home</a></li>
+            <li><a href="../education/education.html">Education</a></li>
+            <li><a href="../employment/employment.html">Employment</a></li>
+            <li><a href="../achievements/achievements.html">Achievements</a></li>
+            <li><a href="../references/references.html">References</a></li>
+            <li><a href="../documents/documents.html">Documents</a></li>
+        </ul>
+    </nav>
+    <main class="main">
+        <h2>Cat Calculations /ᐠ-ꞈ-ᐟ\</h2>
+        <br><br>
+        <div class = calculator>
+        <input type = "number" id="first">
+        <br><br>
+        <input type = "number" id="second">
+        <br><br>
+        <div class = buttons>
+        <button id = "add" onclick = "add()">+</button>
+        <button id = "sub" onclick = "sub()">-</button>
+        <button id = "mul" onclick = "mul()">*</button>
+        <button id = "div" onclick = "div()">/</button>
+        <button id = "power" onclick = "pow()">**</button>
+            <button onclick="clearAll()">Clear</button>
+        </div>
+        <br><br>
+
+        <input type="number" id="answer-box" readonly>
+        </div>
+        <div id="result"></div>
+
+
+        <script src = "calculator.js"></script>
+        <img src = "../src/cat-math.png"  alt = "cat" class = "cat">
+
+    </main>
+</div>
+
+<footer>
+    <p>All rights reserved by Erin Cheng: <a href="credits.html">Credits</a> &#169; </p>
+</footer>
+</body>
+</html>
