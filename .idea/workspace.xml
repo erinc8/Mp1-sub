@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a7575e-c57c-4a0e-9a8b-d1857d226c13" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/resume/achievements/achievements.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/achievements/achievements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/documents/documents.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/documents/documents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/education/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/education/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/employment/employment.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/employment/employment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/home/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/references" beforeDir="false" afterPath="$PROJECT_DIR$/resume/references" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/references/references.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/references/references.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/src/1654646461330.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/src/1654646461330.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,17 +19,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.documents.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.documents.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.resume.html.executor": "Run",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resume/home" />
