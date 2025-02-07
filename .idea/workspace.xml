@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a7575e-c57c-4a0e-9a8b-d1857d226c13" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/achievements/achievements.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/achievements/achievements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/documents/documents.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/documents/documents.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/education/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/education/education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/employment/employment.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/employment/employment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/references" beforeDir="false" afterPath="$PROJECT_DIR$/resume/references" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/home/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/home/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/references/references.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/references/references.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
